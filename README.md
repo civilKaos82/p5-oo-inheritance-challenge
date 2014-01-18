@@ -17,7 +17,7 @@ Open the `inheritance.rb` file to see the original code with three very interest
 
 ###Release 0 : Write Tests
 
-Write a FULL set of tests to test this code (at least 10 tests). You may either write simple comparison tests or use [Rspec]().
+Write a FULL set of tests to test this code (at least 10 tests). You may either write simple comparison tests or use [Rspec](http://rspec.info/).
 
 Make sure all the tests pass BEFORE refactoring the code.
 
@@ -47,3 +47,4 @@ Object oriented design is a powerful pattern you'll use going forward. It may fe
 
 * [Ruby Docs](http://www.ruby-doc.org)
 * [Practical Object-Oriented Design in Ruby](http://www.poodr.info/)
+* [Rspec](http://rspec.info/)
