@@ -13,8 +13,8 @@
 In this challenge you will practice refactoring with inheritance.
 
 Open the `inheritance.rb` file to see the original code with three very interesting classes of things you can drive. This code should look terrible to you by now and you should be itching to refactor it. 
-##Releases
 
+## Releases
 ### Release 0 : Write Tests
 
 Write a FULL set of tests to test this code (at least 10 tests). You may either write simple comparison tests or use [Rspec](http://rspec.info/).
